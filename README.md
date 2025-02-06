@@ -23,7 +23,7 @@ project-folder/
 │── index.html   # Main HTML file
 │── styles.css   # CSS for styling
 │── script.js    # JavaScript for validation and interactivity
-└── assets/      # Any additional images or resources
+
 ```
 
 ## Future Enhancements
@@ -32,5 +32,9 @@ project-folder/
 - Add password strength meter.
 ## License
 This project is open-source and free to use for educational purposes.
+## Screensort
+<img width="950" alt="y" src="https://github.com/user-attachments/assets/a7e179df-61c6-4b2e-96a0-f33e24bdbada" />
+
+
 
 
