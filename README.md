@@ -1,7 +1,7 @@
-# CMP Degree College Student Admission Portal login page 
+# Student Admission Portal login page 
 
 ## Overview
-This is a simple front-end web project designed for the student admission portal of **C.M.P Degree College**. It features a clean and responsive login interface where students can enter their credentials (Username & Password) to access the portal.
+This is a simple front-end web project designed for the student admission portal. It features a clean and responsive login interface where students can enter their credentials (Username & Password) to access the portal.
 
 ## Technologies Used
 - **HTML**
