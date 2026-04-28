@@ -10,6 +10,6 @@ document.getElementById('getJokeButton').addEventListener('click', function() {
         })
         .catch(error => {
             jokeElement.textContent = '';
-            errorMessage.textContent = 'Failed to fetch joke';
+            errorMessage.textContent = 'Failed to fetch joke';                   
         });
 });
